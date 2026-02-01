@@ -11,12 +11,7 @@
 
 <br><br>
 
-<!-- SCREENSHOT WITH GLASS BORDER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="screenshot.png">
-  <source media="(prefers-color-scheme: light)" srcset="screenshot.png">
-  <img alt="Iron Lady AI Assistant Interface" src="screenshot.png" width="90%" style="border-radius: 20px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);">
-</picture>
+
 
 <br><br>
 
