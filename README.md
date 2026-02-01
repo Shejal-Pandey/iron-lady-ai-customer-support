@@ -6,9 +6,8 @@
 <br>
 
 <!-- ANIMATED LOGO BADGE -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E84A5F&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%E2%9C%A8+Empowering+Women%2C+Transforming+Lives+%E2%9C%A8;Intelligent+Conversations+%7C+Premium+Experience" alt="Typing SVG" />
-</a>
+
+<img width="1722" height="996" alt="Screenshot 2026-01-30 at 12 36 40 PM" src="https://github.com/user-attachments/assets/0bb0b63a-6eb6-4cf3-a876-100ecccf044e" />
 
 <br><br>
 
