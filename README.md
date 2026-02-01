@@ -7,7 +7,7 @@
 
 <!-- ANIMATED LOGO BADGE -->
 
-<!--<img width="1722" height="996" alt="Screenshot 2026-01-30 at 12 36 40 PM" src="https://github.com/user-attachments/assets/0bb0b63a-6eb6-4cf3-a876-100ecccf044e" />>
+<img width="1722" height="996" alt="Screenshot 2026-01-30 at 12 36 40 PM" src="https://github.com/user-attachments/assets/0bb0b63a-6eb6-4cf3-a876-100ecccf044e" />
 
 <br><br>
 
